@@ -1,0 +1,30 @@
+{
+  "name": "server-skeleton",
+  "version": "1.0.0",
+  "description": "Boilerplate code for a node server, with basics to deploy live",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praneetrattan/server-skeleton.git"
+  },
+  "keywords": [
+    "node",
+    "basic",
+    "server",
+    "skeleton"
+  ],
+  "author": "Praneet Rattan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praneetrattan/server-skeleton/issues"
+  },
+  "homepage": "https://github.com/praneetrattan/server-skeleton#readme",
+  "dependencies": {
+    "node-json-config": "0.0.4",
+    "q": "^1.5.1",
+    "restify": "^6.3.4"
+  }
+}
